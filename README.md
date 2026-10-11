@@ -16,7 +16,6 @@ The model tried **4,860 different set-ups** and added up the cost of each one ov
 
 ![Season cost and fruit lost for four set-ups](figures/fig3_designs.png)
 
-The full write-up is in [`report/`](report) (PDF and Word). This README covers the whole project on its own.
 
 ---
 

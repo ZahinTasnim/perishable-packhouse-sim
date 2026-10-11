@@ -1,0 +1,37 @@
+{
+ "assumption": "wage_per_hour",
+ "old_value": 14.72,
+ "new_value": 25.0,
+ "baseline_layout": {
+  "n_hyd": 1,
+  "n_sort": 8,
+  "n_pack": 20,
+  "n_fac": 2,
+  "shift_plan": 3
+ },
+ "new_layout": {
+  "n_hyd": 1,
+  "n_sort": 8,
+  "n_pack": 20,
+  "n_fac": 2,
+  "shift_plan": 3
+ },
+ "baseline_cost": 786790.6805170565,
+ "new_cost": 1192990.4885170567,
+ "baseline_lost_pct": 0.6876299773827709,
+ "new_lost_pct": 0.6876299773827709,
+ "avg_day_rule_ratio_baseline": 13.490962320108865,
+ "avg_day_rule_ratio_new": 9.106648779885132,
+ "best_by_plan_baseline": {
+  "day": 1019247.8736921226,
+  "late": 857250.8390145141,
+  "double": 803348.7177211609
+ },
+ "best_by_plan_new": {
+  "day": 1445222.9765224848,
+  "late": 1264417.7894145146,
+  "double": 1209548.5257211612
+ },
+ "old_layout_cost_under_new_assumption": 1192990.4885170567,
+ "seconds": 286.28005170822144
+}
